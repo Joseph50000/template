@@ -1,0 +1,3312 @@
+Uri: https://cdn.jsdelivr.net/jquery.ui/1.11.4/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\jquery.ui\1.11.4\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,700|Roboto:400,500|Exo+2:600&display=swap
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/exo2/v24/7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWsOdC6.ttf
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\s\exo2\v24\7cH1v4okm5zmbvwkAx_sfcEuiD8jYPWsOdC6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/billing-history.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\billing-history.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/billing-invoice.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\billing-invoice.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/billing-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\billing-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/billing-upgrade.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\billing-upgrade.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/billing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\billing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/blog-post.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\blog-post.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/blog.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\blog.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/change-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\change-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/cms-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\cms-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/crm-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\crm-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/discussion.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\discussion.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/discussions-ask.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\discussions-ask.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/discussions.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\discussions.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ecommerce.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ecommerce.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/edit-account-notifications.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\edit-account-notifications.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/edit-account-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\edit-account-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/edit-account-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\edit-account-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/edit-account.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\edit-account.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/email.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\email.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/employees.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\employees.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/erp-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\erp-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/faq.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\faq.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/help-center.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\help-center.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/hr-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\hr-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/index.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\index.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/instructor-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\instructor-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/instructor-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\instructor-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/instructor-earnings.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\instructor-earnings.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/instructor-edit-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\instructor-edit-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/instructor-edit-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\instructor-edit-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/instructor-quizzes.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\instructor-quizzes.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/instructor-statement.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\instructor-statement.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/leaves.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\leaves.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/login.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\login.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/messages.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\messages.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/posts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\posts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/pricing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\pricing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/projects.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\projects.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/reset-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\reset-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/signup-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\signup-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/signup.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\signup.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/staff.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\staff.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-my-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-my-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-path-assessment-result.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-path-assessment-result.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-path-assessment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-path-assessment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-path.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-path.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-quiz-result-details.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-quiz-result-details.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-quiz-results.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-quiz-results.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-take-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-take-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-take-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-take-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/student-take-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\student-take-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/tasks-board.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\tasks-board.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/tasks-list.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\tasks-list.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/teacher-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\teacher-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/teachers.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\teachers.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-alerts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-alerts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-avatars.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-avatars.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-badges.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-badges.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-buttons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-buttons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-cards.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-cards.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-forms.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-forms.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-icons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-icons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-loaders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-loaders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-pagination.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-pagination.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-charts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-charts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-daterangepicker.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-daterangepicker.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-dragula.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-dragula.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-dropzone.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-dropzone.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-fancytree.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-fancytree.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-flatpickr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-flatpickr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-maps-vector.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-maps-vector.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-nestable.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-nestable.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-quill.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-quill.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-range-sliders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-range-sliders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-select2.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-select2.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-sweet-alert.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-sweet-alert.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-plugin-toastr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-plugin-toastr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-progress.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-progress.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-tables.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-tables.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/App_Layout/ui-tabs.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\App_Layout\ui-tabs.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/billing-history.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\billing-history.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/billing-invoice.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\billing-invoice.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/billing-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\billing-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/billing-upgrade.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\billing-upgrade.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/billing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\billing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/blog-post.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\blog-post.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/blog.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\blog.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/change-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\change-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/cms-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\cms-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/crm-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\crm-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/discussion.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\discussion.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/discussions-ask.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\discussions-ask.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/discussions.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\discussions.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ecommerce.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ecommerce.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/edit-account-notifications.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\edit-account-notifications.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/edit-account-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\edit-account-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/edit-account-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\edit-account-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/edit-account.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\edit-account.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/email.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\email.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/employees.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\employees.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/erp-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\erp-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/faq.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\faq.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/help-center.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\help-center.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/hr-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\hr-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/index.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\index.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/instructor-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\instructor-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/instructor-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\instructor-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/instructor-earnings.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\instructor-earnings.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/instructor-edit-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\instructor-edit-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/instructor-edit-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\instructor-edit-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/instructor-quizzes.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\instructor-quizzes.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/instructor-statement.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\instructor-statement.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/leaves.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\leaves.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/login.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\login.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/messages.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\messages.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/posts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\posts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/pricing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\pricing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/projects.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\projects.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/reset-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\reset-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/signup-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\signup-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/signup.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\signup.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/staff.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\staff.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-my-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-my-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-path-assessment-result.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-path-assessment-result.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-path-assessment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-path-assessment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-path.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-path.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-quiz-result-details.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-quiz-result-details.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-quiz-results.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-quiz-results.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-take-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-take-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-take-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-take-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/student-take-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\student-take-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/tasks-board.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\tasks-board.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/tasks-list.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\tasks-list.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/teacher-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\teacher-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/teachers.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\teachers.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-alerts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-alerts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-avatars.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-avatars.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-badges.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-badges.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-buttons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-buttons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-cards.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-cards.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-forms.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-forms.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-icons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-icons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-loaders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-loaders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-pagination.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-pagination.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-charts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-charts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-daterangepicker.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-daterangepicker.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-dragula.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-dragula.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-dropzone.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-dropzone.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-fancytree.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-fancytree.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-flatpickr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-flatpickr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-maps-vector.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-maps-vector.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-nestable.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-nestable.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-quill.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-quill.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-range-sliders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-range-sliders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-select2.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-select2.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-sweet-alert.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-sweet-alert.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-plugin-toastr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-plugin-toastr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-progress.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-progress.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-tables.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-tables.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Boxed_App_Layout/ui-tabs.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Boxed_App_Layout\ui-tabs.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/billing-history.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\billing-history.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/billing-invoice.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\billing-invoice.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/billing-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\billing-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/billing-upgrade.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\billing-upgrade.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/billing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\billing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/blog-post.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\blog-post.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/blog.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\blog.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/change-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\change-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/cms-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\cms-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/crm-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\crm-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/discussion.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\discussion.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/discussions-ask.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\discussions-ask.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/discussions.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\discussions.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ecommerce.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ecommerce.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/edit-account-notifications.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\edit-account-notifications.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/edit-account-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\edit-account-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/edit-account-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\edit-account-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/edit-account.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\edit-account.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/email.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\email.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/employees.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\employees.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/erp-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\erp-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/faq.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\faq.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/help-center.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\help-center.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/hr-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\hr-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/index.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\index.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/instructor-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\instructor-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/instructor-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\instructor-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/instructor-earnings.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\instructor-earnings.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/instructor-edit-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\instructor-edit-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/instructor-edit-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\instructor-edit-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/instructor-quizzes.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\instructor-quizzes.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/instructor-statement.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\instructor-statement.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/leaves.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\leaves.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/login.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\login.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/messages.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\messages.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/posts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\posts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/pricing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\pricing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/projects.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\projects.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/reset-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\reset-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/signup-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\signup-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/signup.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\signup.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/staff.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\staff.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-my-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-my-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-path-assessment-result.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-path-assessment-result.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-path-assessment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-path-assessment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-path.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-path.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-quiz-result-details.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-quiz-result-details.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-quiz-results.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-quiz-results.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-take-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-take-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-take-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-take-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/student-take-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\student-take-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/tasks-board.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\tasks-board.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/tasks-list.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\tasks-list.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/teacher-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\teacher-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/teachers.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\teachers.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-alerts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-alerts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-avatars.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-avatars.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-badges.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-badges.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-buttons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-buttons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-cards.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-cards.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-forms.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-forms.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-icons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-icons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-loaders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-loaders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-pagination.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-pagination.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-charts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-charts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-daterangepicker.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-daterangepicker.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-dragula.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-dragula.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-dropzone.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-dropzone.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-fancytree.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-fancytree.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-flatpickr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-flatpickr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-maps-vector.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-maps-vector.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-nestable.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-nestable.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-quill.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-quill.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-range-sliders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-range-sliders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-select2.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-select2.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-sweet-alert.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-sweet-alert.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-plugin-toastr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-plugin-toastr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-progress.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-progress.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-tables.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-tables.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Compact_App_Layout/ui-tabs.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Compact_App_Layout\ui-tabs.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/billing-history.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\billing-history.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/billing-invoice.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\billing-invoice.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/billing-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\billing-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/billing-upgrade.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\billing-upgrade.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/billing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\billing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/blog-post.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\blog-post.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/blog.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\blog.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/change-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\change-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/cms-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\cms-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/crm-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\crm-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/discussion.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\discussion.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/discussions-ask.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\discussions-ask.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/discussions.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\discussions.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ecommerce.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ecommerce.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/edit-account-notifications.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\edit-account-notifications.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/edit-account-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\edit-account-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/edit-account-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\edit-account-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/edit-account.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\edit-account.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/email.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\email.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/employees.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\employees.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/erp-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\erp-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/faq.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\faq.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/help-center.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\help-center.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/hr-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\hr-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/index.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\index.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/instructor-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\instructor-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/instructor-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\instructor-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/instructor-earnings.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\instructor-earnings.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/instructor-edit-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\instructor-edit-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/instructor-edit-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\instructor-edit-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/instructor-quizzes.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\instructor-quizzes.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/instructor-statement.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\instructor-statement.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/leaves.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\leaves.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/login.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\login.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/messages.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\messages.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/posts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\posts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/pricing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\pricing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/projects.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\projects.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/reset-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\reset-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/signup-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\signup-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/signup.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\signup.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/staff.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\staff.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-my-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-my-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-path-assessment-result.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-path-assessment-result.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-path-assessment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-path-assessment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-path.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-path.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-quiz-result-details.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-quiz-result-details.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-quiz-results.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-quiz-results.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-take-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-take-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-take-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-take-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/student-take-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\student-take-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/tasks-board.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\tasks-board.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/tasks-list.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\tasks-list.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/teacher-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\teacher-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/teachers.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\teachers.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-alerts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-alerts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-avatars.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-avatars.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-badges.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-badges.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-buttons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-buttons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-cards.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-cards.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-forms.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-forms.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-icons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-icons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-loaders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-loaders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-pagination.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-pagination.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-charts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-charts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-daterangepicker.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-daterangepicker.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-dragula.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-dragula.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-dropzone.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-dropzone.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-fancytree.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-fancytree.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-flatpickr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-flatpickr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-maps-vector.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-maps-vector.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-nestable.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-nestable.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-quill.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-quill.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-range-sliders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-range-sliders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-select2.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-select2.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-sweet-alert.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-sweet-alert.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-plugin-toastr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-plugin-toastr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-progress.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-progress.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-tables.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-tables.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Fixed_Layout/ui-tabs.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Fixed_Layout\ui-tabs.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/billing-history.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\billing-history.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/billing-invoice.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\billing-invoice.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/billing-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\billing-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/billing-upgrade.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\billing-upgrade.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/billing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\billing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/blog-post.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\blog-post.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/blog.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\blog.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/change-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\change-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/cms-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\cms-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/crm-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\crm-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/discussion.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\discussion.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/discussions-ask.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\discussions-ask.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/discussions.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\discussions.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ecommerce.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ecommerce.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/edit-account-notifications.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\edit-account-notifications.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/edit-account-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\edit-account-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/edit-account-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\edit-account-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/edit-account.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\edit-account.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/email.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\email.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/employees.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\employees.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/erp-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\erp-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/faq.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\faq.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/help-center.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\help-center.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/hr-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\hr-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/index.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\index.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/instructor-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\instructor-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/instructor-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\instructor-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/instructor-earnings.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\instructor-earnings.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/instructor-edit-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\instructor-edit-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/instructor-edit-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\instructor-edit-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/instructor-quizzes.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\instructor-quizzes.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/instructor-statement.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\instructor-statement.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/leaves.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\leaves.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/login.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\login.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/messages.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\messages.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/posts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\posts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/pricing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\pricing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/projects.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\projects.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/reset-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\reset-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/signup-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\signup-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/signup.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\signup.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/staff.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\staff.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-my-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-my-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-path-assessment-result.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-path-assessment-result.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-path-assessment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-path-assessment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-path.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-path.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-quiz-result-details.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-quiz-result-details.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-quiz-results.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-quiz-results.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-take-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-take-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-take-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-take-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/student-take-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\student-take-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/tasks-board.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\tasks-board.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/tasks-list.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\tasks-list.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/teacher-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\teacher-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/teachers.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\teachers.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-alerts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-alerts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-avatars.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-avatars.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-badges.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-badges.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-buttons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-buttons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-cards.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-cards.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-forms.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-forms.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-icons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-icons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-loaders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-loaders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-pagination.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-pagination.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-charts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-charts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-daterangepicker.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-daterangepicker.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-dragula.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-dragula.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-dropzone.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-dropzone.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-fancytree.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-fancytree.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-flatpickr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-flatpickr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-maps-vector.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-maps-vector.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-nestable.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-nestable.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-quill.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-quill.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-range-sliders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-range-sliders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-select2.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-select2.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-sweet-alert.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-sweet-alert.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-plugin-toastr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-plugin-toastr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-progress.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-progress.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-tables.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-tables.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_App_Layout/ui-tabs.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_App_Layout\ui-tabs.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/billing-history.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\billing-history.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/billing-invoice.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\billing-invoice.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/billing-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\billing-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/billing-upgrade.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\billing-upgrade.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/billing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\billing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/blog-post.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\blog-post.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/blog.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\blog.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/change-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\change-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/cms-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\cms-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/crm-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\crm-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/discussion.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\discussion.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/discussions-ask.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\discussions-ask.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/discussions.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\discussions.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ecommerce.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ecommerce.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/edit-account-notifications.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\edit-account-notifications.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/edit-account-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\edit-account-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/edit-account-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\edit-account-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/edit-account.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\edit-account.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/email.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\email.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/employees.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\employees.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/erp-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\erp-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/faq.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\faq.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/help-center.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\help-center.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/hr-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\hr-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/index.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\index.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/instructor-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\instructor-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/instructor-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\instructor-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/instructor-earnings.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\instructor-earnings.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/instructor-edit-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\instructor-edit-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/instructor-edit-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\instructor-edit-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/instructor-quizzes.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\instructor-quizzes.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/instructor-statement.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\instructor-statement.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/leaves.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\leaves.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/login.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\login.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/messages.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\messages.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/posts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\posts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/pricing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\pricing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/projects.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\projects.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/reset-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\reset-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/signup-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\signup-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/signup.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\signup.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/staff.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\staff.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-my-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-my-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-path-assessment-result.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-path-assessment-result.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-path-assessment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-path-assessment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-path.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-path.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-quiz-result-details.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-quiz-result-details.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-quiz-results.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-quiz-results.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-take-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-take-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-take-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-take-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/student-take-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\student-take-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/tasks-board.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\tasks-board.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/tasks-list.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\tasks-list.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/teacher-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\teacher-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/teachers.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\teachers.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-alerts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-alerts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-avatars.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-avatars.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-badges.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-badges.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-buttons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-buttons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-cards.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-cards.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-forms.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-forms.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-icons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-icons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-loaders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-loaders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-pagination.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-pagination.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-charts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-charts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-daterangepicker.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-daterangepicker.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-dragula.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-dragula.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-dropzone.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-dropzone.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-fancytree.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-fancytree.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-flatpickr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-flatpickr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-maps-vector.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-maps-vector.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-nestable.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-nestable.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-quill.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-quill.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-range-sliders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-range-sliders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-select2.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-select2.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-sweet-alert.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-sweet-alert.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-plugin-toastr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-plugin-toastr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-progress.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-progress.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-tables.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-tables.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Mini_Secondary_Layout/ui-tabs.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Mini_Secondary_Layout\ui-tabs.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/billing-history.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\billing-history.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/billing-invoice.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\billing-invoice.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/billing-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\billing-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/billing-upgrade.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\billing-upgrade.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/billing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\billing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/blog-post.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\blog-post.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/blog.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\blog.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/change-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\change-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/cms-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\cms-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/crm-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\crm-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/discussion.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\discussion.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/discussions-ask.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\discussions-ask.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/discussions.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\discussions.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ecommerce.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ecommerce.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/edit-account-notifications.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\edit-account-notifications.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/edit-account-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\edit-account-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/edit-account-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\edit-account-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/edit-account.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\edit-account.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/email.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\email.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/employees.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\employees.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/erp-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\erp-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/faq.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\faq.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/help-center.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\help-center.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/hr-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\hr-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/index.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\index.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/instructor-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\instructor-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/instructor-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\instructor-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/instructor-earnings.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\instructor-earnings.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/instructor-edit-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\instructor-edit-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/instructor-edit-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\instructor-edit-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/instructor-quizzes.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\instructor-quizzes.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/instructor-statement.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\instructor-statement.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/leaves.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\leaves.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/login.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\login.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/messages.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\messages.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/posts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\posts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/pricing.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\pricing.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/projects.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\projects.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/reset-password.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\reset-password.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/signup-payment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\signup-payment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/signup.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\signup.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/staff.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\staff.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-dashboard.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-dashboard.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-my-courses.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-my-courses.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-path-assessment-result.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-path-assessment-result.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-path-assessment.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-path-assessment.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-path.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-path.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-paths.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-paths.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-quiz-result-details.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-quiz-result-details.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-quiz-results.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-quiz-results.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-take-course.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-take-course.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-take-lesson.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-take-lesson.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/student-take-quiz.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\student-take-quiz.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/tasks-board.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\tasks-board.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/tasks-list.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\tasks-list.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/teacher-profile.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\teacher-profile.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/teachers.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\teachers.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-alerts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-alerts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-avatars.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-avatars.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-badges.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-badges.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-buttons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-buttons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-cards.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-cards.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-forms.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-forms.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-icons.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-icons.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-loaders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-loaders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-pagination.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-pagination.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-charts.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-charts.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-daterangepicker.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-daterangepicker.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-dragula.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-dragula.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-dropzone.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-dropzone.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-fancytree.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-fancytree.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-flatpickr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-flatpickr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-maps-vector.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-maps-vector.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-nestable.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-nestable.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-quill.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-quill.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-range-sliders.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-range-sliders.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-select2.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-select2.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-sweet-alert.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-sweet-alert.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-plugin-toastr.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-plugin-toastr.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-progress.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-progress.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-tables.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-tables.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/Demos/Sticky_App_Layout/ui-tabs.html
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\Demos\Sticky_App_Layout\ui-tabs.html
+Content Type: text/html
+
+Uri: https://luma.humatheme.com/public/css/app.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\app.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/bootstrap-touchspin.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\bootstrap-touchspin.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/dropzone.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\dropzone.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/flatpickr-airbnb.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\flatpickr-airbnb.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/flatpickr.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\flatpickr.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/fontawesome.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/ion-rangeslider.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\ion-rangeslider.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/jvectormap.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\jvectormap.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/material-icons.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\material-icons.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/nestable.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\nestable.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/preloader.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\preloader.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/quill.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\quill.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/select2.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\select2.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/sweetalert.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\sweetalert.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/css/toastr.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\css\toastr.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/data/vector-maps/custom/jquery-jvectormap-de-merc-en.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\data\vector-maps\custom\jquery-jvectormap-de-merc-en.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/data/vector-maps/custom/jquery-jvectormap-es-merc-en.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\data\vector-maps\custom\jquery-jvectormap-es-merc-en.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/data/vector-maps/custom/jquery-jvectormap-fr-merc-en.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\data\vector-maps\custom\jquery-jvectormap-fr-merc-en.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/data/vector-maps/custom/jquery-jvectormap-us-aea-en.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\data\vector-maps\custom\jquery-jvectormap-us-aea-en.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/data/vector-maps/custom/jquery-jvectormap-us-lcc-en.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\data\vector-maps\custom\jquery-jvectormap-us-lcc-en.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/data/vector-maps/custom/jquery-jvectormap-world-mill-en.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\data\vector-maps\custom\jquery-jvectormap-world-mill-en.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/data/vector-maps/custom/mall-map.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\data\vector-maps\custom\mall-map.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/data/vector-maps/data/gdp-data.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\data\vector-maps\data\gdp-data.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://luma.humatheme.com/public/fonts/fontawesome-free/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\fontawesome-free\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://luma.humatheme.com/public/fonts/material-icons/MaterialIcons-Regular.eot
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\material-icons\MaterialIcons-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://luma.humatheme.com/public/fonts/material-icons/MaterialIcons-Regular.ttf
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\material-icons\MaterialIcons-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://luma.humatheme.com/public/fonts/material-icons/MaterialIcons-Regular.woff
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\material-icons\MaterialIcons-Regular.woff
+Content Type: font/woff
+
+Uri: https://luma.humatheme.com/public/fonts/material-icons/MaterialIcons-Regular.woff2
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\fonts\material-icons\MaterialIcons-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://luma.humatheme.com/public/images/1280_work-station-straight-on-view.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\1280_work-station-straight-on-view.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_daniel-gaffey-1060698-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_daniel-gaffey-1060698-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_jeremy-banks-798787-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_jeremy-banks-798787-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_joao-silas-636453-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_joao-silas-636453-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_luke-porter-261779-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_luke-porter-261779-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_michael-dam-258165-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_michael-dam-258165-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_rsz_1andy-lee-642320-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_rsz_1andy-lee-642320-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_rsz_90-jiang-640827-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_rsz_90-jiang-640827-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_rsz_florian-perennes-594195-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_rsz_florian-perennes-594195-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_rsz_james-gillespie-714755-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_rsz_james-gillespie-714755-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_rsz_karl-s-973833-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_rsz_karl-s-973833-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_rsz_nicolas-horn-689011-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_rsz_nicolas-horn-689011-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/256_rsz_sharina-mae-agellon-377466-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\256_rsz_sharina-mae-agellon-377466-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/achievements/angular.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\achievements\angular.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/achievements/flinto.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\achievements\flinto.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/illustration/achievement/128/white.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\illustration\achievement\128\white.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/illustration/player.svg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\illustration\player.svg
+Content Type: image/svg+xml
+
+Uri: https://luma.humatheme.com/public/images/illustration/student/128/white.svg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\illustration\student\128\white.svg
+Content Type: image/svg+xml
+
+Uri: https://luma.humatheme.com/public/images/illustration/teacher/128/white.svg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\illustration\teacher\128\white.svg
+Content Type: image/svg+xml
+
+Uri: https://luma.humatheme.com/public/images/logo/black-70@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\logo\black-70@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_64x64.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_64x64.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_64x64.svg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_64x64.svg
+Content Type: image/svg+xml
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_96x96.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_96x96.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_patterns_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_patterns_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_routing_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_routing_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_routing_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_routing_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_services_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_services_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_testing_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_testing_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/angular_testing_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\angular_testing_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/craft_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\craft_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/craft_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\craft_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/craft_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\craft_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/devops_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\devops_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/figma_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\figma_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/figma_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\figma_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/flinto_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\flinto_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/flinto_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\flinto_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/invision_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\invision_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/invision_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\invision_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/invision_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\invision_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/mailchimp_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\mailchimp_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/mailchimp_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\mailchimp_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/mailchimp_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\mailchimp_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/photoshop_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\photoshop_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/photoshop_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\photoshop_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/photoshop_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\photoshop_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/react_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\react_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/react_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\react_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/react_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\react_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/redis_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\redis_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/sketch_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\sketch_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/sketch_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\sketch_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/sketch_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\sketch_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/swift_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\swift_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/swift_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\swift_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/swift_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\swift_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/typescript_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\typescript_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/typescript_64x64.svg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\typescript_64x64.svg
+Content Type: image/svg+xml
+
+Uri: https://luma.humatheme.com/public/images/paths/typescript_892x286.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\typescript_892x286.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/wordpress_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\wordpress_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/wordpress_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\wordpress_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/wordpress_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\wordpress_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/xd_200x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\xd_200x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/xd_40x40@2x.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\xd_40x40@2x.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/paths/xd_430x168.png
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\paths\xd_430x168.png
+Content Type: image/png
+
+Uri: https://luma.humatheme.com/public/images/people/110/guy-1.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\110\guy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/110/guy-2.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\110\guy-2.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/110/guy-3.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\110\guy-3.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/110/guy-6.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\110\guy-6.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/110/woman-1.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\110\woman-1.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/110/woman-2.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\110\woman-2.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/110/woman-3.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\110\woman-3.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/110/woman-5.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\110\woman-5.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/256/256_rsz_90-jiang-640827-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\256\256_rsz_90-jiang-640827-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/256/256_rsz_florian-perennes-594195-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\256\256_rsz_florian-perennes-594195-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/256/256_rsz_james-gillespie-714755-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\256\256_rsz_james-gillespie-714755-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/256/256_rsz_karl-s-973833-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\256\256_rsz_karl-s-973833-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/256/256_rsz_nicolas-horn-689011-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\256\256_rsz_nicolas-horn-689011-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/256/256_rsz_sharina-mae-agellon-377466-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\256\256_rsz_sharina-mae-agellon-377466-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/50/guy-1.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\50\guy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/50/guy-2.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\50\guy-2.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/50/guy-3.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\50\guy-3.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/50/guy-6.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\50\guy-6.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/50/woman-1.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\50\woman-1.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/50/woman-2.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\50\woman-2.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/50/woman-3.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\50\woman-3.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/people/50/woman-5.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\people\50\woman-5.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/photodune-4161018-group-of-students-m.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\photodune-4161018-group-of-students-m.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/stories/256_rsz_dex-ezekiel-761373-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\stories\256_rsz_dex-ezekiel-761373-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/stories/256_rsz_jared-rice-388260-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\stories\256_rsz_jared-rice-388260-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/stories/256_rsz_phil-hearing-769014-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\stories\256_rsz_phil-hearing-769014-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/stories/256_rsz_ross-sneddon-798476-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\stories\256_rsz_ross-sneddon-798476-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/stories/256_rsz_thomas-russell-751613-unsplash.jpg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\stories\256_rsz_thomas-russell-751613-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://luma.humatheme.com/public/images/visa.svg
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\images\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://luma.humatheme.com/public/js/app-icons.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\app-icons.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/app.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\app.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/chartjs-rounded-bar.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\chartjs-rounded-bar.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/chartjs.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\chartjs.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/check-selected-row.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\check-selected-row.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/daterangepicker.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\daterangepicker.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/dragula.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\dragula.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/dropzone.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\dropzone.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/fancytree.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\fancytree.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/flatpickr.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\flatpickr.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/hljs.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\hljs.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/ion-rangeslider.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\ion-rangeslider.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/jvectormap.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\jvectormap.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/list.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\list.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/messages.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\messages.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/nestable.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\nestable.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.crm-dashboard.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.crm-dashboard.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.ecommerce.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.ecommerce.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.employees.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.employees.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.erp-dashboard.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.erp-dashboard.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.hr-dashboard.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.hr-dashboard.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.instructor-dashboard.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.instructor-dashboard.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.instructor-earnings.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.instructor-earnings.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.projects.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.projects.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.staff.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.staff.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.student-dashboard.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.student-dashboard.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.student-profile.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.student-profile.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.tasks-board.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.tasks-board.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/page.ui-charts.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\page.ui-charts.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/preloader.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\preloader.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/quill.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\quill.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/select2.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\select2.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/settings.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\settings.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/sidebar-mini.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\sidebar-mini.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/sweetalert.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\sweetalert.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/toastr.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\toastr.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/toggle-check-all.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\toggle-check-all.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/js/touchspin.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\js\touchspin.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/Chart.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\Chart.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/daterangepicker.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\daterangepicker.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/vendor/daterangepicker.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\daterangepicker.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/dom-factory.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\dom-factory.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/dragula/dragula.min.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\dragula\dragula.min.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/vendor/dragula/dragula.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\dragula\dragula.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/dropzone.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\dropzone.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/flatpickr/flatpickr.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\flatpickr\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/ion.rangeSlider.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\ion.rangeSlider.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/jquery-jvectormap.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\jquery-jvectormap.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/vendor/jquery.bootstrap-touchspin.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\jquery.bootstrap-touchspin.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/jquery.fancytree-all.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\jquery.fancytree-all.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/jquery.jvectormap.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\jquery.jvectormap.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/jquery.mask.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\jquery.mask.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/jquery.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/jquery.nestable.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\jquery.nestable.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/list.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\list.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/material-design-kit.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\material-design-kit.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/moment-range.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\moment-range.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/moment.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/perfect-scrollbar.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/vendor/perfect-scrollbar.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\perfect-scrollbar.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/popper.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\popper.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/quill.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\quill.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/select2/select2.min.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\select2\select2.min.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/vendor/select2/select2.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/spinkit.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\spinkit.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/vendor/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/toastr.min.css
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\toastr.min.css
+Content Type: text/css
+
+Uri: https://luma.humatheme.com/public/vendor/toastr.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://luma.humatheme.com/public/vendor/vue.min.js
+File Name: C:\Downloaded Web Sites\luma.humatheme.com\public\vendor\vue.min.js
+Content Type: application/javascript
+

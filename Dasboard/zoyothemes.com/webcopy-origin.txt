@@ -1,0 +1,968 @@
+Uri: https://apexcharts.com/samples/assets/github-data.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\samples\assets\github-data.js
+Content Type: application/javascript
+
+Uri: https://apexcharts.com/samples/assets/irregular-data-series.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\samples\assets\irregular-data-series.js
+Content Type: application/javascript
+
+Uri: https://apexcharts.com/samples/assets/ohlc.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\samples\assets\ohlc.js
+Content Type: application/javascript
+
+Uri: https://apexcharts.com/samples/assets/stock-prices.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\samples\assets\stock-prices.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\zoyothemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap);:root,[data-bs-theme=light]{--bs-blue:
+File Name: C:\Downloaded Web Sites\zoyothemes.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAct.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAct.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQct.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwct.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwct.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwct.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgAct.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgAct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwct.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwct.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/publicsans/v18/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+File Name: C:\Downloaded Web Sites\zoyothemes.com\s\publicsans\v18\ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf
+Content Type: font/ttf
+
+Uri: https://maps.google.com/maps/api/js?key=AIzaSyDKXKdHQdtqgPVl2HI2RnUa_1bjCxRCQo4&callback=initMap
+File Name: C:\Downloaded Web Sites\zoyothemes.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\index.htm
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/assets/css/app.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\css\app.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/css/icons.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\css\icons.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zoyothemes.com/tapeli/html/assets/fonts/materialdesignicons-webfont.eot?v=7.4.47
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zoyothemes.com/tapeli/html/assets/fonts/materialdesignicons-webfont.ttf?v=7.4.47
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\fonts\materialdesignicons-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://zoyothemes.com/tapeli/html/assets/fonts/materialdesignicons-webfont.woff2?v=7.4.47
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\fonts\materialdesignicons-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://zoyothemes.com/tapeli/html/assets/fonts/materialdesignicons-webfont.woff?v=7.4.47
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\fonts\materialdesignicons-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/authentication.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\authentication.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/gallery/1.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/gallery/2.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/gallery/3.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/gallery/4.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/gallery/5.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/gallery/6.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/gallery/7.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\gallery\7.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/gallery/8.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\gallery\8.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/gallery/9.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\gallery\9.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/landing/bg-pattern.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\landing\bg-pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/logo-dark.png
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\logo-dark.png
+Content Type: image/png
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/logo-light.png
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\logo-light.png
+Content Type: image/png
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/logo-sm.png
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\logo-sm.png
+Content Type: image/png
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/products/bags.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\products\bags.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/products/dresses.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\products\dresses.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/products/headphone.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\products\headphone.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/products/shoes.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\products\shoes.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/img-1.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/img-2.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/img-3.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/img-4.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/img-5.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/img-6.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/img-7.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/img-8.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/img-9.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/small/responsive.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\small\responsive.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/404-error.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\404-error.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/429-error.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\429-error.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/500-error.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\500-error.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/503-error.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\503-error.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/card-bg.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\card-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/coming-soon.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\coming-soon.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/confirmation-email.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\confirmation-email.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/logout.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\logout.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/maintenance-1.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\maintenance-1.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/svg/offline.svg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\svg\offline.svg
+Content Type: image/svg+xml
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-10.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-10.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-11.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-11.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-12.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-12.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-13.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-13.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-14.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-14.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-15.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-15.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-2.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-2.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-3.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-3.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-4.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-4.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-5.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-5.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-6.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-6.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-8.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-8.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/images/users/user-9.jpg
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\images\users\user-9.jpg
+Content Type: image/jpeg
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/app.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/analytics-dashboard.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\analytics-dashboard.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-area.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-area.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-bar.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-bar.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-boxplot.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-boxplot.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-bubble.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-bubble.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-candlestick.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-candlestick.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-column.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-column.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-funnel.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-funnel.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-heatmap.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-heatmap.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-line.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-line.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-mixed.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-mixed.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-pie.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-pie.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-polararea.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-polararea.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-radar.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-radar.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-radialbar.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-radialbar.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-range-area.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-range-area.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-scatter.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-scatter.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-timeline.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-timeline.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/apexcharts-treemap.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\apexcharts-treemap.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/canada-map.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\canada-map.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/coming-soon.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\coming-soon.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/datatable.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\datatable.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/demo.calendar.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\demo.calendar.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/ecommerce-dashboard.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\ecommerce-dashboard.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/form-picker.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\form-picker.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/glightbox.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\glightbox.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/google-maps-init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\google-maps-init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/iraq-map.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\iraq-map.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/quilljs.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\quilljs.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/russia-map.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\russia-map.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/spain-map.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\spain-map.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/us-lcc-en-map.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\us-lcc-en-map.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/us-merc-en-map.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\us-merc-en-map.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/us-mill-en-map.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\us-mill-en-map.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/vector-maps.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\vector-maps.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/js/pages/widgets.init.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\js\pages\widgets.init.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/apexcharts/apexcharts.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\apexcharts\apexcharts.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-bs5/css/dataTables.bootstrap5.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-bs5\css\dataTables.bootstrap5.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-bs5/js/dataTables.bootstrap5.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-bs5\js\dataTables.bootstrap5.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-buttons-bs5/css/buttons.bootstrap5.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-buttons-bs5\css\buttons.bootstrap5.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-buttons-bs5/js/buttons.bootstrap5.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-buttons-bs5\js\buttons.bootstrap5.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-buttons/js/buttons.colVis.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-buttons\js\buttons.colVis.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-buttons/js/buttons.flash.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-buttons\js\buttons.flash.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-buttons/js/buttons.html5.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-buttons\js\buttons.html5.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-buttons/js/buttons.print.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-buttons\js\buttons.print.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-buttons/js/dataTables.buttons.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-buttons\js\dataTables.buttons.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-keytable-bs5/css/keyTable.bootstrap5.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-keytable-bs5\css\keyTable.bootstrap5.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-keytable-bs5/js/keyTable.bootstrap5.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-keytable-bs5\js\keyTable.bootstrap5.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-keytable/js/dataTables.keyTable.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-keytable\js\dataTables.keyTable.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-responsive-bs5/css/responsive.bootstrap5.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-responsive-bs5\css\responsive.bootstrap5.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-responsive-bs5/js/responsive.bootstrap5.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-responsive-bs5\js\responsive.bootstrap5.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-responsive/js/dataTables.responsive.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-responsive\js\dataTables.responsive.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-select-bs5/css/select.bootstrap5.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-select-bs5\css\select.bootstrap5.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-select-bs5/js/select.bootstrap5.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-select-bs5\js\select.bootstrap5.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net-select/js/dataTables.select.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net-select\js\dataTables.select.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/datatables.net/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\datatables.net\js\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/feather-icons/feather.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\feather-icons\feather.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/flatpickr/flatpickr.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\flatpickr\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/flatpickr/flatpickr.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\flatpickr\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/fullcalendar/index.global.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\fullcalendar\index.global.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/glightbox/css/glightbox.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\glightbox\css\glightbox.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/glightbox/js/glightbox.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\glightbox\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/gmaps/gmaps.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\gmaps\gmaps.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/jquery-countdown/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\jquery-countdown\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/jquery.counterup/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\jquery.counterup\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/jsvectormap/css/jsvectormap.min.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\jsvectormap\css\jsvectormap.min.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/jsvectormap/js/jsvectormap.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\jsvectormap\js\jsvectormap.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/jsvectormap/maps/world-merc.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\jsvectormap\maps\world-merc.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/moment/min/moment.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\moment\min\moment.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/node-waves/waves.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\node-waves\waves.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/quill/quill.bubble.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\quill\quill.bubble.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/quill/quill.core.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\quill\quill.core.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/quill/quill.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\quill\quill.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/quill/quill.snow.css
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\quill\quill.snow.css
+Content Type: text/css
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/simplebar/simplebar.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\simplebar\simplebar.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/assets/libs/waypoints/lib/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\assets\libs\waypoints\lib\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://zoyothemes.com/tapeli/html/auth-confirm-mail
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\auth-confirm-mail.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/auth-lock-screen
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\auth-lock-screen.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/auth-login
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\auth-login.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/auth-logout
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\auth-logout.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/auth-recoverpw
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\auth-recoverpw.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/auth-register
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\auth-register.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/calendar
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\calendar.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-area
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-area.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-bar
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-bar.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-boxplot
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-boxplot.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-bubble
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-bubble.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-candlestick
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-candlestick.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-column
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-column.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-funnel
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-funnel.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-heatmap
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-heatmap.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-line
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-line.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-mixed
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-mixed.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-pie
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-pie.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-polararea
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-polararea.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-radar
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-radar.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-radialbar
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-radialbar.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-rangearea
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-rangearea.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-scatter
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-scatter.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-timeline
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-timeline.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/charts-treemap
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\charts-treemap.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ecommerce
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ecommerce.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/email-verification
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\email-verification.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/error-404
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\error-404.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/error-429
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\error-429.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/error-500
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\error-500.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/error-503
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\error-503.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/extended-carousel
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\extended-carousel.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/extended-notifications
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\extended-notifications.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/extended-offcanvas
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\extended-offcanvas.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/extended-range-slider
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\extended-range-slider.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/forms-elements
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\forms-elements.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/forms-pickers
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\forms-pickers.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/forms-quilljs
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\forms-quilljs.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/forms-validation
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\forms-validation.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/icons-feather
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\icons-feather.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/icons-mdi
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\icons-mdi.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/maps-google
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\maps-google.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/maps-vector
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\maps-vector.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/offline-page
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\offline-page.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/pages-coming-soon
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\pages-coming-soon.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/pages-faqs
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\pages-faqs.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/pages-gallery
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\pages-gallery.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/pages-invoice
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\pages-invoice.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/pages-maintenance
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\pages-maintenance.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/pages-pricing
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\pages-pricing.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/pages-profile
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\pages-profile.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/pages-starter
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\pages-starter.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/pages-timeline
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\pages-timeline.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/tables-basic
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\tables-basic.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/tables-datatables
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\tables-datatables.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-accordions
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-accordions.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-alerts
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-alerts.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-badges
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-badges.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-breadcrumb
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-breadcrumb.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-buttons
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-buttons.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-cards
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-cards.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-collapse
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-collapse.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-dropdowns
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-dropdowns.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-grid
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-grid.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-images
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-images.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-list
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-list.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-modals
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-modals.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-pagination
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-pagination.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-placeholders
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-placeholders.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-popovers
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-popovers.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-progress
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-progress.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-scrollspy
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-scrollspy.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-spinners
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-spinners.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-tabs
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-tabs.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-tooltips
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-tooltips.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-typography
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-typography.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/ui-video
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\ui-video.html
+Content Type: text/html
+
+Uri: https://zoyothemes.com/tapeli/html/widgets
+File Name: C:\Downloaded Web Sites\zoyothemes.com\tapeli\html\widgets.html
+Content Type: text/html
+
